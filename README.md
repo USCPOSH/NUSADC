@@ -1,3 +1,4 @@
 # NUSADC
-Repository for ISSCC.
+Repository for ISSCC
+
 Interface between NUS Modulator & Nonuniform DSP
